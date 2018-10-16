@@ -32,10 +32,10 @@ This page displays the personal Log of Kristan Birbalsingh (816003409) of the ev
 - Decided on Qarun being SCRUM master and Michael being Product owner
 - Finalized on the milestone 1 details for submission the next morning
 
-### More details to be added soon, a bit busy with other assignments
+#### More details to be added soon, a bit busy with other assignments
 
 ### October 15 2018
 - Had a meeting with everyone to decide the new product owner and scrum master. Also discussed the new iteration a bit and agreed on an improved front end design. Confirmed the database structure and planned for the next physical meeting.
 - Started following up on some tutorials in React and Redux in accordance to Firebase (see playlists below)
-- https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3
-- https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a
+[Link 1](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
+[Link 2](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
