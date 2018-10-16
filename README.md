@@ -36,6 +36,6 @@ This page displays the personal Log of Kristan Birbalsingh (816003409) of the ev
 
 ### October 15 2018
 - Had a meeting with everyone to decide the new product owner and scrum master. Also discussed the new iteration a bit and agreed on an improved front end design. Confirmed the database structure and planned for the next physical meeting.
-- Started following up on some tutorials in React and Redux in accordance to Firebase (see playlists below)
+- Started following up on some tutorials in React and Redux in accordance to Firebase (see playlists here)
 [Link 1](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
 [Link 2](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBbSLZjvleMwldX8jGgXV6a)
