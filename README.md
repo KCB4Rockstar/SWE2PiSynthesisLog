@@ -5,7 +5,7 @@ This page displays the personal Log of Kristan Birbalsingh (816003409) of the ev
 # Kristan Birbalsingh
 - 816003409
 - gtatrinidad@hotmail.com
-- Github Repo (https://github.com/PiDronics)
+- Github Repo [(https://github.com/PiDronics)](https://github.com/PiDronics)
 
 ## Log
 
@@ -146,6 +146,24 @@ This page displays the personal Log of Kristan Birbalsingh (816003409) of the ev
 - With the completion of this final page for the site at this iteration, I modified the database rules to prevent all unauthorised actions. By default (for development purposes), the "write" rules had no constraints meaning unauthorised users and authorised users had access to write to any part of the system. During development, I was mainly concerned with "read" rules only.
 
 ### November 17 2018 - November 18 2018
+- I didn't do any work today. Decided to take a break and compose some music on FL Studio. If you're interested in it, let me know, I'll send it. (The title is Dark Storm).
+
+### November 19 2018
+- Qarun had done a push of his work yesterday where he was doing testing, and code minimalization but he made an error where the values for the Sensor table did not load so I went ahead and fixed that. The issue was the wrong database location the data was trying to be gathered from.
+
+### November 20 2018 - November 21 2018
+- I did not do any work during these days related to the project but I was doing some research on SQL databases with Javascript and implementation of it on React. I did this for my own knowledge because Django is the only SQL web framework I know and I started to like React so I wanted to know how to implement SQL in React. I didn't learn any of it yet but I have the links saved for express.js and tutorials on routing, etc.
+
+### November 22 2018
+- Another bug I discovered from Qarun's code was that the form for configuring the graph's data did not load with any initial values. This was because he accidentally left them commented out so I fixed that.
+
+### November 23 2018 - November 24 2018
+- I did not work directly related to the project but I was researching Firebase's Admin SDK to see if it would've been of any use to the project. It turned out that we had no use for it as of now.
+
+### November 25 2018
+- Since I was finished with the site's main components, I decided to go through the entire front-end system's code and implement all possible try-catch statements and return promises where available to display more well-defined errors and improve some rendering.
+- There was also some extra code in some of the files I was going through that was commented out and was obsolute so I removed those as well.
+
 
 
 
