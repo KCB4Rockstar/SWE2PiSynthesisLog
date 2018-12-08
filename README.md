@@ -164,7 +164,17 @@ This page displays the personal Log of Kristan Birbalsingh (816003409) of the ev
 - Since I was finished with the site's main components, I decided to go through the entire front-end system's code and implement all possible try-catch statements and return promises where available to display more well-defined errors and improve some rendering.
 - There was also some extra code in some of the files I was going through that was commented out and was obsolute so I removed those as well.
 
+### November 26 2018
+- Finally found a time that everyone could make to have a meeting to discuss the Project Breakdown and explain things which seemed a bit vague but what Kyle elaborated on in class.
+- I also tried to enquire about where everyone reached in their work to get an idea of where the project is and how much still has to get done.
 
+### November 27 2018
+- After the commit from Michael and Gabriella for the Support and About pages, there were several warnings, errors and some bad formatting so I went ahead to clear up the warnings and errors and they said they'd fix the formatting.
+- Also, some feedback was given that having both the sign in and sign up boxes didn't look good so I made it into a toggle instead to show one at a time.
+- These changes threw some errors based on the unit tests it had since some elements were new and some were removed so I commented off those tests for Qarun to fix later on.
+
+### November 28 2018 - Present
+- No work has been done on the project directly but I am researching some things on closing async calls when components are being unmounted and I will implement that research soon.
 
 
 
