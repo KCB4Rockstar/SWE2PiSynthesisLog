@@ -2,11 +2,10 @@
 
 This page displays the personal Log of Kristan Birbalsingh (816003409) of the events and thought as the production of the PiDronics System carries on.
 
-## Members
-- Michael Ali
-- Kristan Birbalsingh
-- Qarun Bissoondial
-- Gabriela Sewdhan
+# Kristan Birbalsingh
+- 816003409
+- gtatrinidad@hotmail.com
+- Github Repo (https://github.com/PiDronics)
 
 ## Log
 
@@ -110,8 +109,49 @@ This page displays the personal Log of Kristan Birbalsingh (816003409) of the ev
 - I started to experience some bottlenecks in development that would've been due to minimalistic way I went about learning React where states and rendering were starting to get problematic.
 - I decided to take a break from all school work for a day or 2 because I haven't done anything for myself in a while as well as my head was cluttered with code and I wanted a clean slate to start back work to. I watched some Boruto, recorded some CSGO and Ring of Elysium gameplay to make videos from to put on my gaming channel [Here's the channel if you're interested](https://youtube.com/user/KCBGamingVideos)
 
-### October 25 2018
-- coming soon
+### October 25 2018 - October 28 2018
+- I did not do any new tasks for the start of the iteration because I was occupied with other work, however in my spare time I did do some research how to do data transfer between child TO parent components (parent TO child is easy to do), and sibling components. I needed to do this for the graphs and the related forms for choosing the range of data for the graph.
+
+### October 29 2018
+- I adjusted the firebase database authentication rules by adding indexing rules to the sensor data so that the data would be filtered and sorted by the time value when being pulled from the database.
+- I also made the components for the form needed to manipulate the range of data to be pulled for the graph. The form comprised of start and end dates, and hours, minutes and period for the start and end time.
+
+### October 30 2018
+- Today I just finished tweaking the conversion of dates to form values and form values to dates and then committed everything to Github.
+
+### October 31 2018
+- The team had a SCRUM meeting today where I was appointed the new SCRUM master. We discussed what was pertinent for completion at this state and I made a soft lust of these things. At this point, we were mainly concerned with getting the remaining hardware we needed and confirming a deployment for the system.
+
+### November 1 2018
+- I didn't get to do anything today related to the project.
+
+### November 2 2018
+- I started creating the tasks for this iteration (4) on Trello and assigning the specific members to handle it. I realised that the Trello for iteration 3 didn't have fully explained tasks so there was a bit of confusion in some aspects so I tried to resolve that for iteration 4.
+
+### November 3 2018 to November 6 2018
+- I didn't do anything because I was a bit preoccupied with other assignments.
+
+### November 7 2018
+- I added a small fix to the site's navbar where selecting an item from the dropdown menu on mobile would close the menu. Before it would've stayed open.
+
+### November 13 2018
+- Today I designed how I thought the Configuration page should look, by drawing it on MS Paint. I then sent the images to the group asking for their opinion on whether it's missing anything or the layout should change. They accepted the design so I started implementing the design.
+- I first modified the test data on firebase to add test data for the configuration page to utilize and modified the authentication rules for said data. The rules there was basically a user can only view and modify their own systems and not any authenticated user's data (which it was by default before).
+
+### November 14 2018
+- Development of the Configuration page still went on today. I did get stuck on a bug where I couldn't update some data in the database because of a bad line in te authentication rules. I resolved it and continued with the work.
+
+### November 15 2018 - November 16 2018
+- I completed the creation of the UI elements for the Configuration page and had a successful connection to the database for reading and writing data.
+- With the completion of this final page for the site at this iteration, I modified the database rules to prevent all unauthorised actions. By default (for development purposes), the "write" rules had no constraints meaning unauthorised users and authorised users had access to write to any part of the system. During development, I was mainly concerned with "read" rules only.
+
+### November 17 2018 - November 18 2018
+
+
+
+
+
+
 
 
 
